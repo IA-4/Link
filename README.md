@@ -33,7 +33,7 @@
     
     https://nodes.wavesplatform.com
 
-    https://waves-dapp.com/
+    https://waves-dapp.com
     
     https://unix.stackexchange.com/questions/138188/easily-unpack-deb-edit-postinst-and-repack-deb
     
