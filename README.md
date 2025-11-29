@@ -3,11 +3,7 @@
     https://t.me/Intorium_Community
     https://t.me/MoneyEnergy_Community
     https://t.me/Psinetika_Community
-    https://t.me/TowerOnTheHill_Community
-    https://t.me/AIXIChat_Community
-    https://t.me/ProtoKripta_Community
-    https://t.me/Astronomikum_Community
-    https://t.me/Urbs_Purpurea_Vetita_Community
+    https://t.me/WavesFreeChat_Community
     https://t.me/wavesexchange_eng
     https://t.me/wavesenterprisegroup
     https://t.me/TurtleNetwork
